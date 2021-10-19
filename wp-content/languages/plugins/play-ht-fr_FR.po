@@ -1,0 +1,121 @@
+# Translation of Plugins - Play.ht &#8211; Make Your Blog Posts Accessible With Text to Speech Audio - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Play.ht &#8211; Make Your Blog Posts Accessible With Text to Speech Audio - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-02 16:30:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Play.ht &#8211; Make Your Blog Posts Accessible With Text to Speech Audio - Stable (latest release)\n"
+
+#: views/back-end/main_view_subscribed.php:35
+msgid "Words usage"
+msgstr "Utilisation des mots"
+
+#: views/back-end/main_view_subscribed.php:31
+msgid "Buy Words"
+msgstr "Acheter des mots"
+
+#: views/back-end/main_view_subscribed.php:28
+msgid "Words remaining"
+msgstr "Motes restant"
+
+#: views/back-end/main_view_subscribed.php:16
+msgid "Words"
+msgstr "Mots"
+
+#: views/back-end/play_main_view.php:8
+msgid "Get Started"
+msgstr "Premiers pas"
+
+#: views/back-end/main_view_subscribed.php:21
+msgid "See How to add audio to your articles"
+msgstr "Voir comment ajouter de l’audio à vos articles"
+
+#: admin/settings.php:158
+msgid "Page Player"
+msgstr "Lecteur de page"
+
+#: includes/functions.php:72
+msgid "You must login first to be able to use play.ht to add audio to your articles."
+msgstr "Vous devez d’abord vous connecter pour pouvoir utiliser play.ht afin d’ajouter de l’audio à vos articles."
+
+#. Author URI of the plugin
+msgid "https://play.ht/wordpress/?utm_source=wordpress&utm_medium=plugin&utm_campaign=plugin-page"
+msgstr "https://play.ht/wordpress/?utm_source=wordpress&utm_medium=plugin&utm_campaign=plugin-page"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: admin/classes/class-backend.php:81 admin/classes/class-backend.php:82
+#: includes/integration/elementor/class-playht-widget.php:16
+msgid "Play.ht"
+msgstr "Play.ht"
+
+#: views/back-end/main_view_subscribed.php:86
+msgid "Facing an issue? Please let us know in the chat."
+msgstr "Vous faites face à un problème ? Faites-le nous savoir sur le chat."
+
+#: views/back-end/main_view_subscribed.php:45
+msgid "Article:"
+msgstr "Article :"
+
+#: views/back-end/main_view_subscribed.php:54
+msgid "Select end date"
+msgstr "Sélectionner la date de fin"
+
+#: views/back-end/main_view_subscribed.php:53
+msgid "Select starting date"
+msgstr "Sélectionner la date de début"
+
+#: views/back-end/main_view_subscribed.php:52
+msgid "Period:"
+msgstr "Période :"
+
+#: views/back-end/main_view_subscribed.php:37
+#: views/back-end/main_view_subscribed.php:41
+#: views/back-end/main_view_subscribed.php:98
+msgid "Loading..."
+msgstr "Chargement…"
+
+#: views/back-end/main_view_subscribed.php:36
+msgid "Voice"
+msgstr "Voix"
+
+#: views/back-end/main_view_subscribed.php:36
+msgid "Article Title"
+msgstr "Titre de l’article"
+
+#: views/back-end/main_view_subscribed.php:20
+msgid "Help"
+msgstr "Aide"
+
+#: views/back-end/main_view_subscribed.php:14
+msgid "Account"
+msgstr "Compte"
+
+#: views/back-end/crisp_chat.php:1
+msgid "Contact us"
+msgstr "Nous contacter"
+
+#: includes/functions.php:79
+msgid "Your subscription is over, you need to renew your subscription."
+msgstr "Votre abonnement est terminé, vous devez le renouveler."
+
+#: includes/classes/Play_Requests.php:220
+msgid "Your request is being processed."
+msgstr "Votre demande est en cours de traitement."
+
+#: includes/classes/Play_Requests.php:132
+msgid "Your article is sent in order to be converted."
+msgstr "Votre article est envoyé afin d’être converti."
+
+#: includes/classes/Play_Admin_notice.php:28
+msgid "The Article is sent successfully, it's being converted."
+msgstr "L’article est bien envoyé, il est en cours de conversion."
+
+#: includes/classes/Ajax_Handler.php:44 includes/classes/Ajax_Handler.php:61
+msgid "Error, Please provide a valid data"
+msgstr "Erreur, veuillez fournir des données valides"

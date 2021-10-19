@@ -1,0 +1,174 @@
+# Translation of Themes - School Zone in French (France)
+# This file is distributed under the same license as the Themes - School Zone package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-13 15:51:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - School Zone\n"
+
+#. Theme Name of the theme
+msgid "School Zone"
+msgstr "School Zone"
+
+#: header.php:26
+msgid "Skip to content (Press Enter)"
+msgstr "Aller au contenu (Pressez Entrée)"
+
+#: footer.php:58
+msgid "Powered by %s."
+msgstr "Propulsé par %s."
+
+#: footer.php:56
+msgid "School Zone | Developed By"
+msgstr "School Zone | Dévelopé par"
+
+#: footer.php:58
+msgid "https://wordpress.org/"
+msgstr "https://fr.wordpress.org/"
+
+#: functions.php:243
+msgid "More WordPress Themes"
+msgstr "Autres thèmes WordPress"
+
+#: footer.php:52
+msgid "Y"
+msgstr "Y"
+
+#: footer.php:52
+msgid "Copyright &copy;"
+msgstr "Copyright &copy;"
+
+#: functions.php:239
+msgid "Theme info"
+msgstr "Infos sur le thème"
+
+#: functions.php:237
+msgid "Theme Demo"
+msgstr "Démo du thème"
+
+#: functions.php:235 functions.php:237 functions.php:239 functions.php:241
+#: functions.php:243
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: functions.php:235
+msgid "Theme Documentation"
+msgstr "Documentation du thème"
+
+#: functions.php:224
+msgid "Demo and Documentation"
+msgstr "Démo et documentation"
+
+#: functions.php:402
+msgid "Banner Title"
+msgstr "Titre de la bannière"
+
+#: functions.php:381
+msgid "Post Banner"
+msgstr "Article de bannière"
+
+#: functions.php:375
+msgid "Banner Options"
+msgstr "Options de la bannière"
+
+#: functions.php:46
+msgid "Default Header Image"
+msgstr "Image d'en-tête par défaut"
+
+#: functions.php:492 functions.php:589 sections/section-slider.php:11
+msgid "Enquiry"
+msgstr "Demande de renseignements"
+
+#: functions.php:446 functions.php:582 sections/section-slider.php:9
+msgid "Get Started Now"
+msgstr "Commencez dès maintenant"
+
+#: functions.php:429
+msgid "Banner Description"
+msgstr "Description de la bannière"
+
+#: functions.php:309
+msgid "Address"
+msgstr "Adresse"
+
+#: functions.php:246
+msgid "About School Zone"
+msgstr "À propos de School Zone"
+
+#: functions.php:241
+msgid "Support Ticket"
+msgstr "Ticket de support"
+
+#: functions.php:380
+msgid "Static/Video CTA Banner"
+msgstr "Bannière statique/vidéo d’appel à action"
+
+#: functions.php:379
+msgid "Disable Banner Section"
+msgstr "Désactiver la section de bannière"
+
+#: functions.php:376
+msgid "Choose banner as static image/video."
+msgstr "Choisissez la bannière en image statique/vidéo."
+
+#: functions.php:266
+msgid "Banner Section"
+msgstr "Section de bannière"
+
+#: functions.php:334
+msgid "CTA Label"
+msgstr "Libellé d’appel à action"
+
+#: functions.php:257
+msgid "Header Settings"
+msgstr "Réglage d'en-tête"
+
+#: functions.php:392 functions.php:568 sections/section-slider.php:7
+msgid "Better Education for a Better World"
+msgstr "Une meilleurs éducation pour un monde meilleur"
+
+#: sections/section-slider.php:15
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: functions.php:528
+msgid "Link Two Url"
+msgstr "URL de lien 2"
+
+#: functions.php:502
+msgid "Link Two Label"
+msgstr "Libellé de lien 2"
+
+#: functions.php:482
+msgid "Link One Url"
+msgstr "URL de lien 1"
+
+#: functions.php:456
+msgid "Link One Label"
+msgstr "Libellé de lien 1"
+
+#: functions.php:358
+msgid "CTA Link"
+msgstr "Lien d’appel à action"
+
+#: functions.php:575 sections/section-slider.php:8
+msgid "Maecenas perspiciatis eleifend mollitia esse etiam rem harum? Sunt incididunt, sollicitudin earum anim quidem laoreet nibh, facilisis eiusmod!"
+msgstr "Maecenas perspiciatis eleifend mollitia esse etiam rem harum ? Sunt incididunt, sollicitudin earum anim quidem laoreet nibh, facilisis eiusmod !"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: footer.php:57
+msgid "Rara Theme"
+msgstr "Thème Rara"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/school-zone/"
+msgstr "https://rarathemes.com/wordpress-themes/school-zone/"
